@@ -1,6 +1,8 @@
 # Drip
 
-A new flutter project showing pages of different coffee types, made up of snippits from various example projects.
+A new flutter project showing pages of different coffee types.
+
+_Excuse the project structure and architecture... still getting to grips with what best-practices should be_
 
 ## Build instructions
 
@@ -31,5 +33,6 @@ A new flutter project showing pages of different coffee types, made up of snippi
 * Wikipedia's [List of coffee drinks](https://en.wikipedia.org/wiki/List_of_coffee_drinks)
 * Random coffee images from [unsplash](https://unsplash.com/search/coffee)
 * Font: [Josefin sans](https://www.fontsquirrel.com/fonts/josefin-sans) ([license](https://www.fontsquirrel.com/license/josefin-sans))
+* This absolute gem: [Material Design Palette generator](http://mcg.mbitson.com/#!?mcgpalette0=%23363744&themename=mcgtheme)
 * Alot of help from [Flutter Gallery examples](https://github.com/flutter/flutter/tree/master/examples/flutter_gallery) github project
 * Droidcon Italy 2017 // A new hope - Eugenio Marletti & Sebastiano Poggi ([YouTube](https://www.youtube.com/watch?v=0ijVuVtu6a4))
