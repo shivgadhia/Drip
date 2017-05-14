@@ -1,0 +1,30 @@
+name: Drip
+description: Coffee...in order of milk
+
+dependencies:
+  flutter:
+    sdk: flutter
+  url_launcher:
+
+
+# The following section is specific to Flutter.
+flutter:
+
+  uses-material-design: true
+
+  assets:
+    - images/espresso.jpg
+    - images/ristretto.jpg
+    - images/cortado.jpg
+    - images/longblack.jpg
+    - images/mocha.jpg
+    - images/cappuccino.jpg
+    - images/macchiato.jpg
+    - images/flatwhite.jpg
+    - images/latte.jpg
+
+
+fonts:
+    - family: Josefin-sans
+      fonts:
+        - asset: fonts/JosefinSans-Light.ttf
