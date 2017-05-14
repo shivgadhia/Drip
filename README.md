@@ -2,6 +2,18 @@
 
 A new flutter project showing pages of different coffee types, made up of snippits from various example projects.
 
+## Build instructions
+
+* **Release apk** `flutter build apk --release`
+
+* **Debug apk** `flutter build apk`
+
+* **iOS** `[not sure yet]`
+
+## Run
+* `flutter run --release`
+* `flutter run`
+
 ## Screenshots
 
 ### Android
